@@ -1,1 +1,3 @@
-# batchfile_scripts
+# Batch file scripts
+
+Generic batch file scripts repository.
